@@ -1,0 +1,14 @@
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/bin/Debug/net8.0/task2
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/bin/Debug/net8.0/task2.deps.json
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/bin/Debug/net8.0/task2.dll
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/bin/Debug/net8.0/task2.pdb
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/task2.dll
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/task2.pdb
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/07 - Знакомство с языками программирования (семинары)/Урок 7. Рекурсия/homework/task2/obj/Debug/net8.0/ref/task2.dll
